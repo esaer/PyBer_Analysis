@@ -9,8 +9,9 @@ The analyisis is to review how the ride sharing data differs by city type and ho
 
 1. The total rides and total drivers in Urban areas are far more than the total rides and total drivers in Rural and Suburban Area
 2. Average fare per ride and average fare per driver in Rural and Suburban areas are higher than in Urban area. 
-![](https://github.com/esaer/School_District_Analysis/blob/main/District%20Summary.PNG)
+![](https://github.com/esaer/PyBer_Analysis/blob/main/PyBer%20summary.PNG)
 2. We see highest total fare in Urban Area and lowest total fare in Rural Area
+![](https://github.com/esaer/PyBer_Analysis/blob/main/PB%20graph.PNG)
 
 ## PyBer Analysis Summary 
 
